@@ -1,0 +1,116 @@
+body {
+    margin: 25px 50px 75px;
+}
+
+.banner-div {
+    background-image: url("https://covalence.io/static/img/home/home-hero.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 370px;
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    color: white;
+    padding-top: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-blend-mode: multiply;
+    background-color: cyan;
+}
+
+.banner-div button {
+    background-color: #EA437B;
+    color: white;
+    height: 50px;
+    width: 150px;
+}
+.banner-div h1 {
+    text-transform: capitalize;
+}
+.banner-div h4 {
+    text-transform: uppercase;
+}
+.three-container {
+    text-align: center;
+    width: 100%;
+    padding-bottom: 50px;
+    border-bottom-style: solid;
+    border-width: thin;
+    border-color: gray;
+
+}
+
+.col{
+    width: 32%;
+    display: inline-block;
+    margin-top: 50px;
+}
+.one {
+    width: 33%;
+    display: inline-block;
+    height: 250px;
+    position: relative;
+    bottom: 19px;
+}
+.br-r {
+    border-right-style: solid;
+    border-width: thin;
+    border-color: gray;
+}
+.col h6 {
+    font-weight: 300;
+    font-size: 18px;
+    color: gray;
+    text-transform: uppercase;
+
+}
+.font-weight-bold {
+    font-weight: 700 !important;
+}
+.lead {
+    font-size: 1.25rem;
+}
+.bottom {
+    position: relative;
+    text-align: center;
+    height: 600px;
+}
+.icon-circle {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    border-style: solid;
+    border-width: thin;
+    border-color: gray;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 darkblue;
+}
+.bottom h1 {
+    text-transform: capitalize;
+    color: #EA437B;
+    font-weight: 100;
+    font-size: 3.5rem;
+}
+.bottom h3 {
+    font-size: 1.25rem;
+    font-weight: 100;
+    color: gray;
+}
+.bottom h4 {
+    font-weight: 300;
+    font-size: 24px;
+    text-transform: capitalize;
+}
+.bottom p {
+    color: gray;
+}
+.text-yellow {
+    color: yellow;
+}
+.bottom i {
+    font-size: 50px;
+    text-align: center;
+    position: relative;
+    top: 22px;
+}
